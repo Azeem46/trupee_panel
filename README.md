@@ -1,0 +1,1 @@
+This is the frontend code for this application in React.js framework and it is suppoted with Node.js ^14.0.0
